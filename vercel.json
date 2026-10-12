@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/board.js": {
+      "maxDuration": 60
+    }
+  }
+}
