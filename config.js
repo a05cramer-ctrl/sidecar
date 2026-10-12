@@ -1,1 +1,1 @@
-window.SIDECAR_CFG={NAME:"SIDECAR",TICKER:"SIDECAR",CA:"",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"",BUY:"",CHART:"",TREASURY:""};
+window.SIDECAR_CFG={NAME:"SIDECAR",TICKER:"SIDECAR",CA:"3S34hzar1NUQVff3yHfWJdraTRK4zHwBaQduVroupump",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"https://x.com/launchsidecar",BUY:"",CHART:"",TREASURY:""};
